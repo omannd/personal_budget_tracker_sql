@@ -19,7 +19,7 @@ A relational database project designed to track, categorize, and analyze persona
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/omannd/personal-budget-tracker-sql.git](https://github.com/YOUR_USERNAME/personal-budget-tracker-sql.git)
+    git clone [https://github.com/omannd/personal-budget-tracker-sql.git](https://github.com/omannd/personal_budget_tracker_sql.git)
     ```
 2.  Open your SQL editor (MySQL Workbench, DBeaver, etc.).
 3.  Run the **`schema.sql`** script to set up the database structure.
